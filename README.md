@@ -14,7 +14,7 @@ Este projeto é uma simulação de mapeamento de memória cache associativo por 
 Para executar este projeto, você precisa de **Python 3.7+**. Clone este repositório e instale as dependências necessárias:
 
 ```bash
-git clone https://github.com/seu-repositorio/simulador-cache.git
+git clone https://github.com/PedroBarbosa239/Simulador-de-mapeamento-associativo-por-conjunto.git
 cd simulador-cache
 pip install -r requirements.txt
 ```
